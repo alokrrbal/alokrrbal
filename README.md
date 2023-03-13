@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer </h3>
 <img align="right" alt="codingImg" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 <p align="left"> <a href="https://twitter.com/alokbal_" target="blank"><img src="https://img.shields.io/twitter/follow/alokbal_?logo=twitter&style=for-the-badge" alt="alokbal_" /></a> </p>
