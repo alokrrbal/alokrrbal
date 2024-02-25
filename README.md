@@ -4,7 +4,7 @@
 I'm Alok Bal, a passionate Data Analyst with expertise in Excel, Power BI, Python, and SQL. I love diving into data to extract insights and drive business decisions.
 
 - 📫 How to reach me: alokrashmiranjan2@gmail.com
-- 💼 Check out my portfolio: [xyz.com](https://alokrrbal.github.io/)
+- 💼 Check out my portfolio: [https://alokrrbal.github.io/](https://alokrrbal.github.io/)
 - 📄 Here's my [resume](https://drive.google.com/file/d/1J5y4cAvjHh3Y2U_wezpqRIng6XtvE0On/view?usp=drive_link).
 
 ## Social Media
